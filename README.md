@@ -1,7 +1,2 @@
-# prjct
+# git
 ---
-
-- conta pillole + promemoria
-- solitario spider
-- sudoku
-- tetris
